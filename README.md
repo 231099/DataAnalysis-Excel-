@@ -1,7 +1,26 @@
 <h1>Project Overview </h1>
 <p>
-  This project analyzes customer demographic data to identify patterns and trends that influence bike purchasing decisions. 
-  The goal was to process raw sales data into a functional dashboard that provides actionable insights for a retail strategy.
+  This end-to-end data analysis project focuses on understanding customer demographic factors that drive bike purchasing decisions. 
+  The objective was to transform raw sales data into a functional, interactive dashboard that provides clear, actionable insights for market analysis and retail strategy.
+</p>
+
+<h2>Repository Structure</h2>
+<p>
+  This repository is organized to showcase the entire data workflow, from raw input to final visualization:
+
+ Dataset/
+
+raw_data.csv: The original, untouched customer data.
+
+cleaned_data.csv: The dataset after all cleaning and transformation steps were applied.
+
+ Image/
+
+dashboard.png: A high-resolution screenshot of the final Excel Dashboard for quick viewing.
+
+ Project File/
+
+Bike-Sales-Analysis-Workbook.xlsx: The master Excel file containing four distinct, labeled sheets: Raw Data, Working Sheet (Cleaned Data), Pivot Tables, and Dashboard.
 </p>
 
 <h2>Data Cleaning Process</h2>
